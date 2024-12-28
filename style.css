@@ -1,0 +1,49 @@
+.SiteLogo{
+    display: inline;
+    width: 160px;
+    min-width: 100px;
+
+}
+.mainimg{
+    width:  50%;
+    height: 98vh;
+    float: right;
+}
+.maincontent{
+width: 438px;
+height: 156px;
+top: 80px;
+left: 100px;
+font-family: Roboto;
+font-size: 42px;
+font-weight: 700;
+line-height: 52px;
+margin-left: 20px;
+position: relative;                          ;
+}
+.subcontent{
+width: 438px;
+height: 52px;
+top: 80px;
+left: 100px;
+font-family: Roboto;
+font-size: 18px;
+font-weight: 400;
+line-height: 26px;
+margin-left: 20px;
+position: relative;
+}
+button{
+width: Fixed (200px)px;
+height: Fixed (60px)px;
+top: 80px;
+left: 100px;
+padding: 10px 20px;
+gap: 10px;
+border-radius: 30px 30px 30px 30px;
+background: linear-gradient(90deg, #92EBF1 0%, #86FDE8 100%);
+position: relative;
+}
+div{
+    display: inline-block;
+}
